@@ -7,7 +7,7 @@ AI-powered merge governance platform.
 - AI code review
 - Security scanning
 - Coverage validation
-- Merge blocking
+- Merge
 
 ## Run Backend
 
