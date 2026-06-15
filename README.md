@@ -5,7 +5,7 @@ AI-powered merge governance platform.
 ## Features
 - GitHub webhook integration
 - AI code 
-- Security scanning
+- Security scanning..//
 - Coverage validation
 - Merge
 
@@ -18,3 +18,4 @@ venv\Scripts\activate
 pip install -r requirements.txt
 uvicorn main:app --
 ```
+  
