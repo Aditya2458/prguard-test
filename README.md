@@ -6,7 +6,7 @@ AI-powered merge governance platform.
 - GitHub webhook integration
 - AI code 
 - Security scanning..//
-- Coverage validation
+- Coverage validation ..//
 - Merge
 
 ## Run Backend no
