@@ -1,4 +1,4 @@
-# PRGuard AI
+# PRGuard AI bot
 
 AI-powered merge governance platform.
 ..
