@@ -1,6 +1,6 @@
 # PRGuard AI bot
 
-AI-powered merge governance platform.
+AI-powered merge governance platform.....
 ..
 ## Features
 - GitHub webhook integration
